@@ -3,8 +3,8 @@
 <a href="https://www.linkedin.com/in/titus-hsu-888027182/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/Titus181/Titus181/blob/main/portfolio.md"><img src="https://img.shields.io/badge/Portfolio-25292E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
 <a href="mailto:s97333333@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://drive.google.com/file/d/1v_viTchoko5wnY-rMhdMYZicgkWYcIC9/view?usp=sharing"><img src="https://img.shields.io/badge/Download-English_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download English CV"></a>
-<a href="https://drive.google.com/file/d/1NyQJlh2ONYRX1QznqTXfXJBfYD6M3k01/view?usp=sharing"><img src="https://img.shields.io/badge/Download-Chinese_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Chinese CV"></a>
+<a href="https://drive.google.com/file/d/1NyQJlh2ONYRX1QznqTXfXJBfYD6M3k01/view?usp=sharing"><img src="https://img.shields.io/badge/Download-English_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download English CV"></a>
+<a href="https://drive.google.com/file/d/1v_viTchoko5wnY-rMhdMYZicgkWYcIC9/view?usp=sharing"><img src="https://img.shields.io/badge/Download-Chinese_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Chinese CV"></a>
 
 I'm a Web3 builder with a dual expertise in **on-chain data analysis** and **full-stack development**. As an **IBM Certified Data Scientist**, I'm passionate about translating complex on-chain activity into actionable growth strategies and building robust, data-driven applications.
 
@@ -58,8 +58,8 @@ I'm a Web3 builder with a dual expertise in **on-chain data analysis** and **ful
 <a href="https://www.linkedin.com/in/titus-hsu-888027182/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/Titus181/Titus181/blob/main/portfolio.md"><img src="https://img.shields.io/badge/個人作品集-25292E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
 <a href="mailto:s97333333@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://drive.google.com/file/d/1v_viTchoko5wnY-rMhdMYZicgkWYcIC9/view?usp=sharing"><img src="https://img.shields.io/badge/下載-英文履歷-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="下載英文履歷"></a>
-<a href="https://drive.google.com/file/d/1NyQJlh2ONYRX1QznqTXfXJBfYD6M3k01/view?usp=sharing"><img src="https://img.shields.io/badge/下載-中文履歷-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="下載中文履歷"></a>
+<a href="https://drive.google.com/file/d/1NyQJlh2ONYRX1QznqTXfXJBfYD6M3k01/view?usp=sharing"><img src="https://img.shields.io/badge/下載-英文履歷-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="下載英文履歷"></a>
+<a href="https://drive.google.com/file/d/1v_viTchoko5wnY-rMhdMYZicgkWYcIC9/view?usp=sharing"><img src="https://img.shields.io/badge/下載-中文履歷-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="下載中文履歷"></a>
 
 我是一位兼具 **鏈上數據分析** 與 **全端開發** 專業背景的 Web3 Builder。作為一名 **IBM 認證的數據科學家**，我熱衷於將複雜的鏈上活動，轉化為可執行的增長策略，並打造穩健、由數據驅動的應用程式。
 
