@@ -109,8 +109,3 @@ I'm a Web3 builder with a dual expertise in **on-chain data analysis** and **ful
 -   🌐 三語流利：**中文 (母語)**、**日文 (JLPT N1)**、**英文 (TOEIC 825)**。
 -   💡 作為 **Might DAO** 的活躍貢獻者，我不僅貢獻數據洞見，也積極參與 X (Twitter) Spaces 的社群交流。 我的驅動力來自於在 Web3 領域中，打造能夠真正連結數據、技術與用戶需求的有意義的產品。
 
-  
----
-
--   🌐 三語流利：**中文 (母語)**、**日文 (JLPT N1)**、**英文 (TOEIC 825)**。
--   💡 作為 **Might DAO** 的活躍貢獻者，我不僅貢獻數據洞見，也積極參與 X (Twitter) Spaces 的社群交流。 我的驅動力來自於在 Web3 領域中，打造能夠真正連結數據、技術與用戶需求的有意義的產品。
