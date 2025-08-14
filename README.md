@@ -23,7 +23,7 @@ I'm a Web3 builder with a dual expertise in **on-chain data analysis** and **ful
 ### 💻 My Tech Stack
 
 **Data Analysis & Machine Learning:**
-**數據分析 & 機器學習:**
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
@@ -31,7 +31,7 @@ I'm a Web3 builder with a dual expertise in **on-chain data analysis** and **ful
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
 </p>
 
-**後端 & 系統:**
+**Backend & DevOps:**
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
@@ -39,7 +39,7 @@ I'm a Web3 builder with a dual expertise in **on-chain data analysis** and **ful
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
-**前端:**
+**Frontend:**
 <p>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
