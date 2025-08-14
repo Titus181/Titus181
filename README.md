@@ -79,8 +79,6 @@ I'm a Web3 builder with a dual expertise in **on-chain data analysis** and **ful
 
 ### 💻 我的技術棧
 
-### 💻 我的技術棧
-
 **數據分析 & 機器學習:**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
