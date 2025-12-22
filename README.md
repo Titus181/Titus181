@@ -2,6 +2,7 @@
 
 <a href="https://www.linkedin.com/in/titus-hsu-888027182/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/Titus181/Titus181/blob/main/portfolio.md"><img src="https://img.shields.io/badge/Portfolio-25292E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
+<a href="https://leetcode.com/u/titushsu/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 <a href="mailto:titus.hsu@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
 <a href="https://t.me/titushsu"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://drive.google.com/file/d/1NyQJlh2ONYRX1QznqTXfXJBfYD6M3k01/view?usp=sharing"><img src="https://img.shields.io/badge/Download-English_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download English CV"></a>
@@ -60,6 +61,7 @@ I'm a Web3 builder with a dual expertise in **on-chain data analysis** and **ful
 
 <a href="https://www.linkedin.com/in/titus-hsu-888027182/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/Titus181/Titus181/blob/main/portfolio.md"><img src="https://img.shields.io/badge/個人作品集-25292E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
+<a href="https://leetcode.com/u/titushsu/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 <a href="mailto:titus.hsu@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
 <a href="https://t.me/titushsu"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://drive.google.com/file/d/1NyQJlh2ONYRX1QznqTXfXJBfYD6M3k01/view?usp=sharing"><img src="https://img.shields.io/badge/下載-英文履歷-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="下載英文履歷"></a>
