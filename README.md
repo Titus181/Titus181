@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/titus-hsu-888027182/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/Titus181/Titus181/blob/main/portfolio.md"><img src="https://img.shields.io/badge/Portfolio-25292E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
 <a href="mailto:titus.hsu@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
+<a href="https://t.me/titushsu"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://drive.google.com/file/d/1NyQJlh2ONYRX1QznqTXfXJBfYD6M3k01/view?usp=sharing"><img src="https://img.shields.io/badge/Download-English_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download English CV"></a>
 <a href="https://drive.google.com/file/d/1v_viTchoko5wnY-rMhdMYZicgkWYcIC9/view?usp=sharing"><img src="https://img.shields.io/badge/Download-Chinese_CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download Chinese CV"></a>
 
@@ -60,6 +61,7 @@ I'm a Web3 builder with a dual expertise in **on-chain data analysis** and **ful
 <a href="https://www.linkedin.com/in/titus-hsu-888027182/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/Titus181/Titus181/blob/main/portfolio.md"><img src="https://img.shields.io/badge/個人作品集-25292E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
 <a href="mailto:titus.hsu@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"></a>
+<a href="https://t.me/titushsu"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://drive.google.com/file/d/1NyQJlh2ONYRX1QznqTXfXJBfYD6M3k01/view?usp=sharing"><img src="https://img.shields.io/badge/下載-英文履歷-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="下載英文履歷"></a>
 <a href="https://drive.google.com/file/d/1v_viTchoko5wnY-rMhdMYZicgkWYcIC9/view?usp=sharing"><img src="https://img.shields.io/badge/下載-中文履歷-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="下載中文履歷"></a>
 
@@ -95,7 +97,7 @@ I'm a Web3 builder with a dual expertise in **on-chain data analysis** and **ful
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
-**前端:**
+**Frontend:**
 <p>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
