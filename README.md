@@ -1,4 +1,4 @@
-# Titus Hsu | Probability Engineer @ Bosi Consulting | Web3 Data Analyst & Full-Stack Developer
+# Titus Hsu | Probability Engineer @ NexTeam | Web3 Data Analyst & Full-Stack Developer
 
 <a href="https://www.linkedin.com/in/titus-hsu-888027182/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/Titus181/Titus181/blob/main/portfolio.md"><img src="https://img.shields.io/badge/Portfolio-25292E?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
