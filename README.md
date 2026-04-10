@@ -11,13 +11,14 @@
 ---
 
 ### 📊 LeetCode Live Dashboard
+
 <p align="center">
   <a href="https://leetcode.com/u/titushsu/">
-    <img align="center" src="https://leetcard.jacoblin.cool/titushsu?theme=dark&font=Recursive&ext=activity" alt="LeetCode Solved Stats" />
+    <img src="https://leetcard.jacoblin.cool/titushsu?theme=dark&font=Recursive&ext=activity" alt="LeetCode Solved Stats" />
   </a>
-  <br/><br/>
+  <br/>
   <a href="https://leetcode.com/u/titushsu/">
-    <img align="center" src="https://github-readme-leetcode.vercel.app/api?username=titushsu&theme=dark&show_icons=true" alt="LeetCode Contest Stats" />
+    <img src="https://leetcode-stats-six.vercel.app/api?username=titushsu&theme=dark" alt="LeetCode Contest Stats" />
   </a>
 </p>
 
