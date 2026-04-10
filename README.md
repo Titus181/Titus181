@@ -19,8 +19,8 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/titushsu/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=FFA116&label=Contest%20Rating&query=ranking.rating&url=https%3A%2F%2Fleetcode-rating-api.herokuapp.com%2Ftitushsu&logo=leetcode" alt="Rating" />
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=0078D4&label=Global%20Rank&query=ranking.global_rank&url=https%3A%2F%2Fleetcode-rating-api.herokuapp.com%2Ftitushsu&logo=leetcode" alt="Rank" />
+    <img src="https://img.shields.io/badge/Contest_Rating-1510-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Rating" />
+    <img src="https://img.shields.io/badge/Global_Ranking-Top_40%25-0078D4?style=for-the-badge" alt="Rank" />
   </a>
 </p>
 
