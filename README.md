@@ -15,13 +15,10 @@
   <a href="https://leetcode.com/u/titushsu/">
     <img src="https://leetcard.jacoblin.cool/titushsu?theme=dark&font=Recursive&ext=activity" alt="LeetCode Solved Stats" />
   </a>
-</p>
-
-<p align="center">
+  <br/>
   <a href="https://leetcode.com/u/titushsu/">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=FFA116&label=Contest%20Rating&query=contestRating&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Ftitushsu&logo=leetcode" alt="LeetCode Rating" />
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=26A5E4&label=Global%20Ranking&query=ranking&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Ftitushsu&logo=leetcode" alt="LeetCode Ranking" />
-  </p>
+    <img src="https://leetcode-stats-github-cloud.vercel.app/api?username=titushsu&theme=dark" alt="LeetCode Contest Stats" />
+  </a>
 </p>
 
 ---
