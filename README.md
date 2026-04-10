@@ -10,16 +10,18 @@
 
 ---
 
-### 📊 LeetCode Live Dashboard
-
+### 📊 LeetCode Live Metrics
 <p align="center">
   <a href="https://leetcode.com/u/titushsu/">
     <img src="https://leetcard.jacoblin.cool/titushsu?theme=dark&font=Recursive&ext=activity" alt="LeetCode Solved Stats" />
   </a>
-  <br/>
+</p>
+
+<p align="center">
   <a href="https://leetcode.com/u/titushsu/">
-    <img src="https://leetcode-stats-eight.vercel.app/api?username=titushsu&theme=dark" alt="LeetCode Contest Stats" />
-  </a>
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=FFA116&label=Contest%20Rating&query=contestRating&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Ftitushsu&logo=leetcode" alt="LeetCode Rating" />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=26A5E4&label=Global%20Ranking&query=ranking&url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2Ftitushsu&logo=leetcode" alt="LeetCode Ranking" />
+  </p>
 </p>
 
 ---
