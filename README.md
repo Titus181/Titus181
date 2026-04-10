@@ -18,7 +18,7 @@
   </a>
   <br/>
   <a href="https://leetcode.com/u/titushsu/">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=titushsu&theme=dark" alt="LeetCode Contest Stats" />
+    <img src="https://leetcode-stats-eight.vercel.app/api?username=titushsu&theme=dark" alt="LeetCode Contest Stats" />
   </a>
 </p>
 
